@@ -1,5 +1,4 @@
 ﻿using KD.Builders;
-using KD.Builders.Class;
 using System;
 
 namespace Test_BuildSimpleClass

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace KD.Builders.Class
+namespace KD.Builders
 {
     /// <summary>
     /// Contains definition for ClassBuilder which is used to dynamically build classes.
